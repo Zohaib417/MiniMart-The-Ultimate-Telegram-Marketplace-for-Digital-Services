@@ -1,6 +1,7 @@
 ________________________________________
 MiniMart — The Ultimate Telegram Marketplace for Digital Services
-![Uploading custom-telegram-bot.png…]()
+<img width="1187" height="1020" alt="custom-telegram-bot" src="https://github.com/user-attachments/assets/dfd8ef2c-4bc9-41fb-b175-d2ed5861f765" />
+
 
 In the world of instant communication and digital commerce, Telegram marketplaces are rapidly transforming how we buy and sell services. One such rising platform is MiniMart — Telegram Digital Services Marketplace, a feature-packed Telegram bot designed to simplify the process of showcasing, discovering, and purchasing digital services, all within the Telegram app.
 What is a Telegram Marketplace?
